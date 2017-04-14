@@ -1,14 +1,14 @@
 {
-  "name": "ews-javascript-api-auth",
+  "name": "ews-javascript-api-auth-ntlm2",
   "version": "1.2.0",
-  "description": "Library to Help with non-Basic Authentication methods with ews-javascript-api package",
+  "description": "Library to Help with non-Basic Authentication methods with ews-javascript-api package + NTLM2 (This is just a convenience npm installation - needed in case of Windows where fetching npm packages via name/tag/branch is not working well. Check https://github.com/gautamsi/ews-javascript-api-auth for the full library.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gautamsi/ews-javascript-api-auth.git"
+    "url": "https://github.com/istersin/ews-javascript-api-auth.git"
   },
   "bugs": {
     "url": "https://github.com/gautamsi/ews-javascript-api-auth/issues"
